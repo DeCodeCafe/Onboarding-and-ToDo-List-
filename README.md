@@ -24,3 +24,5 @@ We're really excited to have you as part of the DeCodeCafe Community. Here is a 
   - [ ] Please create a file at DeCodeCafe/Core-Team-Members with your name (Eg: Rahul Khinchi.md)
   - [ ] Please write about yourself. How about sharing your image, social links and some nice lines about you? Also, it's a .md file ( markdown file). Know more about it's [good practice](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+
+To tick the box: You nee to write X in the box. 
