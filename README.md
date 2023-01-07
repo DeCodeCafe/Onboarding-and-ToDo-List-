@@ -6,7 +6,7 @@ We're really excited to have you as part of the DeCodeCafe Community. Here is a 
 ## Your ToDo List
 
 - Onboarding
-   Please use this file as a template for onboarding and create an issue at DeCodeCafe/Onboarding-and-ToDo-List- and complete all the tasks here.
+  - Please use this file as a template for onboarding and create an issue at [DeCodeCafe/Onboarding-and-ToDo-List-](https://github.com/DeCodeCafe/Onboarding-and-ToDo-List-/issues) and complete all the tasks here.
    Issue Format: NAME-ROLE-DDMMYYYY
 
 - Terms of Service
