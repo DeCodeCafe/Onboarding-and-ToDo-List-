@@ -13,7 +13,7 @@ We're really excited to have you as part of the DeCodeCafe Community. Here is a 
   - [ ] Please tick the checkbox to signify that you have read and agree to the DeCodeCafe Community terms and conditions: https://github.com/DeCodeCafe/Code-of-Conduct
 
 - Discord
-  - [ ] Join the Discord Server (link below)
+  - [ ] Join the [Discord Server](https://discord.gg/4ScQzUQc35)
   - [ ] Accept the server rules
   - [ ] Change your alias on the server to be your Name
   - [ ] Introduce yourself in the `🌱introductions` channel on Discord
